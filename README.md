@@ -23,7 +23,7 @@ time instead of resetting.
 
 🔒 **Private project — proprietary. Not open source.** This repository is a public placeholder.
 
-🔗 **More:** [stengroup.fi/neuro-cognitive-architecture-zaman](https://stengroup.fi/neuro-cognitive-architecture-zaman/)
+🔗 **More:** [https://stengroup.fi/zaman-by-rosenbrae-memory-for-ai-that-does-not-reset-but-continues/)
 
 &nbsp;
 
