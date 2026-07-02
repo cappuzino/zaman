@@ -23,7 +23,7 @@ time instead of resetting.
 
 🔒 **Private project — proprietary. Not open source.** This repository is a public placeholder.
 
-🔗 **More:** [https://stengroup.fi/zaman-by-rosenbrae-memory-for-ai-that-does-not-reset-but-continues/)
+🔗 **More:** https://stengroup.fi/zaman-by-rosenbrae-memory-for-ai-that-does-not-reset-but-continues/
 
 &nbsp;
 
