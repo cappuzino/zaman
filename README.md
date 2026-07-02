@@ -15,7 +15,7 @@ time instead of resetting.
 - 🔗 **Meaning in connections** — memories are linked into a web, not stored as isolated facts.
 - 🧬 **Continuity across agents** — each new agent inherits context and lessons instead of starting blank.
 
-📄 **Read the perspective:** [WHITEPAPER.md](WHITEPAPER.md)
+📄 **Read the perspective:** https://github.com/cappuzino/zaman/blob/main/whitepaper.md
 
 &nbsp;
 
